@@ -6,7 +6,7 @@ Follow these instructions to get the project up and running on your local machin
 
 1. Clone the repository to your local machine and navigate to the project directory:
    ```bash
-   git clone https://github.com/.git
+   git clone https://github.com/nicolezhangyt/stock-tracker.git
    cd stock-tracker
 2. Install dependencies:
    ```bash
