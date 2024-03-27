@@ -51,3 +51,7 @@ Follow these instructions to get the project up and running on your local machin
   When sorting the list of companies by market cap in ascending or descending order, consider automatically resetting to the first page of results. This ensures that users have a consistent experience and can easily navigate through the sorted data without losing context. 
   
   Need to consult with stakeholders to confirm this behavior aligns with expectations.
+
+  ### Search Function in Dropdown Menu
+
+  Implement a search function in the country dropdown menu to improve user experience when selecting specific countries from a large list.
