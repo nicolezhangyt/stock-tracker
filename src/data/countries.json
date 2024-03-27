@@ -1,0 +1,542 @@
+[
+  {
+    "countryCode": "Global",
+    "countryName": "Global",
+    "countryFlag": "🌍",
+    "countryAdjective": "Global"
+  },
+  {
+    "countryCode": "AU",
+    "countryName": "Australia",
+    "countryFlag": "🇦🇺",
+    "countryAdjective": "Australian"
+  },
+  {
+    "countryCode": "US",
+    "countryName": "United States",
+    "countryFlag": "🇺🇸",
+    "countryAdjective": "American"
+  },
+  {
+    "countryCode": "GB",
+    "countryName": "United Kingdom",
+    "countryFlag": "🇬🇧",
+    "countryAdjective": "British"
+  },
+  {
+    "countryCode": "CA",
+    "countryName": "Canada",
+    "countryFlag": "🇨🇦",
+    "countryAdjective": "Canadian"
+  },
+  {
+    "countryCode": "CN",
+    "countryName": "China",
+    "countryFlag": "🇨🇳",
+    "countryAdjective": "Chinese"
+  },
+  {
+    "countryCode": "IN",
+    "countryName": "India",
+    "countryFlag": "🇮🇳",
+    "countryAdjective": "Indian"
+  },
+  {
+    "countryCode": "AR",
+    "countryName": "Argentina",
+    "countryFlag": "🇦🇷",
+    "countryAdjective": "Argentinian"
+  },
+  {
+    "countryCode": "AT",
+    "countryName": "Austria",
+    "countryFlag": "🇦🇹",
+    "countryAdjective": "Austrian"
+  },
+  {
+    "countryCode": "BH",
+    "countryName": "Bahrain",
+    "countryFlag": "🇧🇭",
+    "countryAdjective": "Bahraini"
+  },
+  {
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "countryFlag": "🇧🇩",
+    "countryAdjective": "Bangladeshi"
+  },
+  {
+    "countryCode": "BE",
+    "countryName": "Belgium",
+    "countryFlag": "🇧🇪",
+    "countryAdjective": "Belgian"
+  },
+  {
+    "countryCode": "BM",
+    "countryName": "Bermuda",
+    "countryFlag": "🇧🇲",
+    "countryAdjective": "Bermudian"
+  },
+  {
+    "countryCode": "BW",
+    "countryName": "Botswana",
+    "countryFlag": "🇧🇼",
+    "countryAdjective": "Botswanan"
+  },
+  {
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "countryFlag": "🇧🇷",
+    "countryAdjective": "Brazilian"
+  },
+  {
+    "countryCode": "BG",
+    "countryName": "Bulgaria",
+    "countryFlag": "🇧🇬",
+    "countryAdjective": "Bulgarian"
+  },
+  {
+    "countryCode": "CL",
+    "countryName": "Chile",
+    "countryFlag": "🇨🇱",
+    "countryAdjective": "Chilean"
+  },
+  {
+    "countryCode": "CO",
+    "countryName": "Colombia",
+    "countryFlag": "🇨🇴",
+    "countryAdjective": "Colombian"
+  },
+  {
+    "countryCode": "HR",
+    "countryName": "Croatia",
+    "countryFlag": "🇭🇷",
+    "countryAdjective": "Croatian"
+  },
+  {
+    "countryCode": "CY",
+    "countryName": "Cyprus",
+    "countryFlag": "🇨🇾",
+    "countryAdjective": "Cypriot"
+  },
+  {
+    "countryCode": "CZ",
+    "countryName": "Czech Republic",
+    "countryFlag": "🇨🇿",
+    "countryAdjective": "Czech"
+  },
+  {
+    "countryCode": "DK",
+    "countryName": "Denmark",
+    "countryFlag": "🇩🇰",
+    "countryAdjective": "Danish"
+  },
+  {
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "countryFlag": "🇪🇬",
+    "countryAdjective": "Egyptian"
+  },
+  {
+    "countryCode": "EE",
+    "countryName": "Estonia",
+    "countryFlag": "🇪🇪",
+    "countryAdjective": "Estonian"
+  },
+  {
+    "countryCode": "FI",
+    "countryName": "Finland",
+    "countryFlag": "🇫🇮",
+    "countryAdjective": "Finnish"
+  },
+  {
+    "countryCode": "FR",
+    "countryName": "France",
+    "countryFlag": "🇫🇷",
+    "countryAdjective": "French"
+  },
+  {
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "countryFlag": "🇩🇪",
+    "countryAdjective": "German"
+  },
+  {
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "countryFlag": "🇬🇭",
+    "countryAdjective": "Ghanaian"
+  },
+  {
+    "countryCode": "GR",
+    "countryName": "Greece",
+    "countryFlag": "🇬🇷",
+    "countryAdjective": "Greek"
+  },
+  {
+    "countryCode": "HK",
+    "countryName": "Hong Kong",
+    "countryFlag": "🇭🇰",
+    "countryAdjective": "Hong Kong"
+  },
+  {
+    "countryCode": "HU",
+    "countryName": "Hungary",
+    "countryFlag": "🇭🇺",
+    "countryAdjective": "Hungarian"
+  },
+  {
+    "countryCode": "IS",
+    "countryName": "Iceland",
+    "countryFlag": "🇮🇸",
+    "countryAdjective": "Icelandic"
+  },
+  {
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "countryFlag": "🇮🇩",
+    "countryAdjective": "Indonesian"
+  },
+  {
+    "countryCode": "IE",
+    "countryName": "Ireland",
+    "countryFlag": "🇮🇪",
+    "countryAdjective": "Irish"
+  },
+  {
+    "countryCode": "IL",
+    "countryName": "Israel",
+    "countryFlag": "🇮🇱",
+    "countryAdjective": "Israeli"
+  },
+  {
+    "countryCode": "IT",
+    "countryName": "Italy",
+    "countryFlag": "🇮🇹",
+    "countryAdjective": "Italian"
+  },
+  {
+    "countryCode": "CI",
+    "countryName": "Ivory Coast",
+    "countryFlag": "🇨🇮",
+    "countryAdjective": "Ivorian"
+  },
+  {
+    "countryCode": "JM",
+    "countryName": "Jamaica",
+    "countryFlag": "🇯🇲",
+    "countryAdjective": "Jamaican"
+  },
+  {
+    "countryCode": "JP",
+    "countryName": "Japan",
+    "countryFlag": "🇯🇵",
+    "countryAdjective": "Japanese"
+  },
+  {
+    "countryCode": "JO",
+    "countryName": "Jordan",
+    "countryFlag": "🇯🇴",
+    "countryAdjective": "Jordanian"
+  },
+  {
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "countryFlag": "🇰🇪",
+    "countryAdjective": "Kenyan"
+  },
+  {
+    "countryCode": "KW",
+    "countryName": "Kuwait",
+    "countryFlag": "🇰🇼",
+    "countryAdjective": "Kuwaiti"
+  },
+  {
+    "countryCode": "LV",
+    "countryName": "Latvia",
+    "countryFlag": "🇱🇻",
+    "countryAdjective": "Latvian"
+  },
+  {
+    "countryCode": "LT",
+    "countryName": "Lithuania",
+    "countryFlag": "🇱🇹",
+    "countryAdjective": "Lithuanian"
+  },
+  {
+    "countryCode": "LU",
+    "countryName": "Luxembourg",
+    "countryFlag": "🇱🇺",
+    "countryAdjective": "Luxembourgish"
+  },
+  {
+    "countryCode": "MW",
+    "countryName": "Malawi",
+    "countryFlag": "🇲🇼",
+    "countryAdjective": "Malawian"
+  },
+  {
+    "countryCode": "MY",
+    "countryName": "Malaysia",
+    "countryFlag": "🇲🇾",
+    "countryAdjective": "Malaysian"
+  },
+  {
+    "countryCode": "MT",
+    "countryName": "Malta",
+    "countryFlag": "🇲🇹",
+    "countryAdjective": "Maltese"
+  },
+  {
+    "countryCode": "MU",
+    "countryName": "Mauritius",
+    "countryFlag": "🇲🇺",
+    "countryAdjective": "Mauritian"
+  },
+  {
+    "countryCode": "MX",
+    "countryName": "Mexico",
+    "countryFlag": "🇲🇽",
+    "countryAdjective": "Mexican"
+  },
+  {
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "countryFlag": "🇲🇦",
+    "countryAdjective": "Moroccan"
+  },
+  {
+    "countryCode": "NA",
+    "countryName": "Namibia",
+    "countryFlag": "🇳🇦",
+    "countryAdjective": "Namibian"
+  },
+  {
+    "countryCode": "NL",
+    "countryName": "Netherlands",
+    "countryFlag": "🇳🇱",
+    "countryAdjective": "Dutch"
+  },
+  {
+    "countryCode": "NZ",
+    "countryName": "New Zealand",
+    "countryFlag": "🇳🇿",
+    "countryAdjective": "New Zealand"
+  },
+  {
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "countryFlag": "🇳🇬",
+    "countryAdjective": "Nigerian"
+  },
+  {
+    "countryCode": "NO",
+    "countryName": "Norway",
+    "countryFlag": "🇳🇴",
+    "countryAdjective": "Norwegian"
+  },
+  {
+    "countryCode": "OM",
+    "countryName": "Oman",
+    "countryFlag": "🇴🇲",
+    "countryAdjective": "Omani"
+  },
+  {
+    "countryCode": "PK",
+    "countryName": "Pakistan",
+    "countryFlag": "🇵🇰",
+    "countryAdjective": "Pakistani"
+  },
+  {
+    "countryCode": "PS",
+    "countryName": "Palestinian Authority",
+    "countryFlag": "🇵🇸",
+    "countryAdjective": "Palestinian"
+  },
+  {
+    "countryCode": "PE",
+    "countryName": "Peru",
+    "countryFlag": "🇵🇪",
+    "countryAdjective": "Peruvian"
+  },
+  {
+    "countryCode": "PH",
+    "countryName": "Philippines",
+    "countryFlag": "🇵🇭",
+    "countryAdjective": "Filipino"
+  },
+  {
+    "countryCode": "PL",
+    "countryName": "Poland",
+    "countryFlag": "🇵🇱",
+    "countryAdjective": "Polish"
+  },
+  {
+    "countryCode": "PT",
+    "countryName": "Portugal",
+    "countryFlag": "🇵🇹",
+    "countryAdjective": "Portuguese"
+  },
+  {
+    "countryCode": "QA",
+    "countryName": "Qatar",
+    "countryFlag": "🇶🇦",
+    "countryAdjective": "Qatari"
+  },
+  {
+    "countryCode": "RO",
+    "countryName": "Romania",
+    "countryFlag": "🇷🇴",
+    "countryAdjective": "Romanian"
+  },
+  {
+    "countryCode": "RU",
+    "countryName": "Russia",
+    "countryFlag": "🇷🇺",
+    "countryAdjective": "Russian"
+  },
+  {
+    "countryCode": "SA",
+    "countryName": "Saudi Arabia",
+    "countryFlag": "🇸🇦",
+    "countryAdjective": "Saudi"
+  },
+  {
+    "countryCode": "RS",
+    "countryName": "Serbia",
+    "countryFlag": "🇷🇸",
+    "countryAdjective": "Serbian"
+  },
+  {
+    "countryCode": "SG",
+    "countryName": "Singapore",
+    "countryFlag": "🇸🇬",
+    "countryAdjective": "Singaporean"
+  },
+  {
+    "countryCode": "SK",
+    "countryName": "Slovakia",
+    "countryFlag": "🇸🇰",
+    "countryAdjective": "Slovak"
+  },
+  {
+    "countryCode": "SI",
+    "countryName": "Slovenia",
+    "countryFlag": "🇸🇮",
+    "countryAdjective": "Slovenian"
+  },
+  {
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "countryFlag": "🇿🇦",
+    "countryAdjective": "South African"
+  },
+  {
+    "countryCode": "KR",
+    "countryName": "South Korea",
+    "countryFlag": "🇰🇷",
+    "countryAdjective": "South Korean"
+  },
+  {
+    "countryCode": "ES",
+    "countryName": "Spain",
+    "countryFlag": "🇪🇸",
+    "countryAdjective": "Spanish"
+  },
+  {
+    "countryCode": "LK",
+    "countryName": "Sri Lanka",
+    "countryFlag": "🇱🇰",
+    "countryAdjective": "Sri Lankan"
+  },
+  {
+    "countryCode": "SE",
+    "countryName": "Sweden",
+    "countryFlag": "🇸🇪",
+    "countryAdjective": "Swedish"
+  },
+  {
+    "countryCode": "CH",
+    "countryName": "Switzerland",
+    "countryFlag": "🇨🇭",
+    "countryAdjective": "Swiss"
+  },
+  {
+    "countryCode": "TW",
+    "countryName": "Taiwan",
+    "countryFlag": "🇹🇼",
+    "countryAdjective": "Taiwanese"
+  },
+  {
+    "countryCode": "TZ",
+    "countryName": "Tanzania",
+    "countryFlag": "🇹🇿",
+    "countryAdjective": "Tanzanian"
+  },
+  {
+    "countryCode": "TH",
+    "countryName": "Thailand",
+    "countryFlag": "🇹🇭",
+    "countryAdjective": "Thai"
+  },
+  {
+    "countryCode": "TT",
+    "countryName": "Trinidad & Tobago",
+    "countryFlag": "🇹🇹",
+    "countryAdjective": "Trinidadian/Tobagonian"
+  },
+  {
+    "countryCode": "TN",
+    "countryName": "Tunisia",
+    "countryFlag": "🇹🇳",
+    "countryAdjective": "Tunisian"
+  },
+  {
+    "countryCode": "TR",
+    "countryName": "Turkey",
+    "countryFlag": "🇹🇷",
+    "countryAdjective": "Turkish"
+  },
+  {
+    "countryCode": "UG",
+    "countryName": "Uganda",
+    "countryFlag": "🇺🇬",
+    "countryAdjective": "Ugandan"
+  },
+  {
+    "countryCode": "UA",
+    "countryName": "Ukraine",
+    "countryFlag": "🇺🇦",
+    "countryAdjective": "Ukrainian"
+  },
+  {
+    "countryCode": "AE",
+    "countryName": "United Arab Emirates",
+    "countryFlag": "🇦🇪",
+    "countryAdjective": "Emirati"
+  },
+  {
+    "countryCode": "VE",
+    "countryName": "Venezuela",
+    "countryFlag": "🇻🇪",
+    "countryAdjective": "Venezuelan"
+  },
+  {
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "countryFlag": "🇻🇳",
+    "countryAdjective": "Vietnamese"
+  },
+  {
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "countryFlag": "🇿🇲",
+    "countryAdjective": "Zambian"
+  },
+  {
+    "countryCode": "ZW",
+    "countryName": "Zimbabwe",
+    "countryFlag": "🇿🇼",
+    "countryAdjective": "Zimbabwean"
+  }
+]
